@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Git, Linux, Docker, Kubernetes**
 
-- 📫 How to reach me **yusufambition@gmail.com**
+- 📫 How to reach me **yusufambition@gmail.com** [x.com](https://x.com/yusufambition)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
